@@ -6,7 +6,7 @@ import shutil
 import ctypes
 import winreg
 import requests
-import urllib
+import urllib CStealer
 import random
 import warnings
 import threading
